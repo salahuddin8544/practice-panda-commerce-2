@@ -1,0 +1,46 @@
+.container{
+    margin-bottom:100px;
+}
+.carousel-bg{
+    background-color: #FEEAE9;
+    padding:10px 30px;
+    border-radius: 10px;
+}
+.btn-now{
+    background-color: #FF589F;
+    color: #fff;
+    border-radius: 9px;
+    padding:9px 25px;
+    border:none;
+
+}
+.cat1{
+    background-color:blue
+}
+.cat2{
+    background-color:chartreuse
+}
+.cat3{
+    background-color:darkorchid
+}
+.cat1, .cat2, .cat3{
+    color:#fff;
+    border-radius: 9px;
+    padding: 9px 15px;
+}
+.cat1 img, .cat2 img, .cat3 img{
+    width:100px;
+}
+.card{
+    border:none;
+    box-shadow:5px 5px 10px lightgray;
+}
+#service{ 
+    height: 300px;
+}
+.let h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
